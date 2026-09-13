@@ -22,13 +22,11 @@ The analysis addresses the following questions:
 
 ## Datasets
 
-The project uses three Netflix Top 10 workbooks:
+- `all-weeks-countries-netflix.xlsx`
+- `all-weeks-global-netflix.xlsx`
+- `most-popular-netflix.xlsx`
 
-| Dataset                            | Records | Purpose                                                            |
-| ---------------------------------- | ------: | ------------------------------------------------------------------ |
-| `all-weeks-countries-netflix.xlsx` | 272,260 | Country-level weekly Top 10 rankings                               |
-| `all-weeks-global-netflix.xlsx`    |   5,840 | Global weekly rankings, views, viewing hours, and cumulative weeks |
-| `most-popular-netflix.xlsx`        |      40 | First-91-day performance for Netflix’s most popular titles         |
+Dataset source: [Netflix Top 10 data](https://www.netflix.com/tudum/top10/data)
 
 Key variables include:
 
