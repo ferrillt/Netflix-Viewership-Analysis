@@ -177,7 +177,7 @@ cd analysis
 Start Jupyter Notebook and open the analysis:
 
 ```bash
-jupyter notebook Netflix_Viewership_Analysis.ipynb
+jupyter notebook Netflix_Viewership_Analysis.ipynb 
 ```
 
 Run the notebook cells in order. The notebook reads the three Excel workbooks from the adjacent `data` folder.
