@@ -1,6 +1,5 @@
 pandas
 numpy
-matplotlib.pyplot
-textwrap
-pathlib Path
-warnings.filterwarnings("ignore", category=UserWarning, module="openpyxl")
+matplotlib
+openpyxl
+jupyter
