@@ -168,7 +168,7 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-Move into the analysis folder:
+Move into the notebook folder:
 
 ```bash
 cd notebook
