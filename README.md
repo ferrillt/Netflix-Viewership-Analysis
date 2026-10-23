@@ -139,7 +139,7 @@ This visualization identifies titles appearing in both the global and country-le
 ## Project Materials
 
 * [View the complete Jupyter Notebook](analysis/Netflix_Viewership_Analysis.ipynb)
-* [View the project presentation](presentation/Netflix_Viewership_Analysis_Presentation.pptx)
+* [View the project presentation](presentation/Netflix_Viewership_Analysis_Presentation.pdf)
 * [View the country-level dataset](data/all-weeks-countries-netflix.xlsx)
 * [View the global dataset](data/all-weeks-global-netflix.xlsx)
 * [View the Most Popular dataset](data/most-popular-netflix.xlsx)
