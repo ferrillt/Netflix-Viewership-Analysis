@@ -130,15 +130,15 @@ This visualization identifies titles appearing in both the global and country-le
 
 | Folder or file     | Contents                                                            |
 | ------------------ | ------------------------------------------------------------------- |
-| `analysis`         | Jupyter Notebook containing the complete analysis and saved outputs |
 | `data`             | Three Netflix Top 10 Excel workbooks                                |
 | `images`           | Portfolio-ready visualizations generated from the analysis          |
+| `notebook`         | Jupyter Notebook containing the complete analysis and saved outputs |
 | `presentation`     | Narrative presentation of the analysis                              |
 | `requirements.txt` | Python packages required to run the notebook                        |
 
 ## Project Materials
 
-* [View the complete Jupyter Notebook](analysis/Netflix_Viewership_Analysis.ipynb)
+* [View the complete Jupyter Notebook](notebook/Netflix_Viewership_Analysis.ipynb)
 * [View the project presentation](presentation/Netflix_Viewership_Analysis_Presentation.pdf)
 * [View the country-level dataset](data/all-weeks-countries-netflix.xlsx)
 * [View the global dataset](data/all-weeks-global-netflix.xlsx)
@@ -171,7 +171,7 @@ pip install -r requirements.txt
 Move into the analysis folder:
 
 ```bash
-cd analysis
+cd notebook
 ```
 
 Start Jupyter Notebook and open the analysis:
